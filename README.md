@@ -1,5 +1,15 @@
 # Proxy Scraper
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=rioo-maker%2FProx-Scrapper&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=rioo-maker/Prox-Scrapper&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=rioo-maker/Prox-Scrapper&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=rioo-maker/Prox-Scrapper&type=date&legend=top-left" />
+ </picture>
+</a>
+
 ## Description
 
 **Proxy Scraper** is a tool that automatically collects public proxy servers from multiple online sources and compiles them into a clean list.
